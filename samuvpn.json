@@ -29,6 +29,13 @@
     
              "url": "http://103.107.54.182:82/th/online_app_s2.json"
     
+          },
+      {
+    
+             "name": "TH-FREE-03",
+    
+             "url": "http://45.154.26.234:82/server/online_app.json"
+    
           }
     
     
