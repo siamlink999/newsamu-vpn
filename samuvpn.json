@@ -1,7 +1,7 @@
 {
   
-    "version": 12,
-    "message": "⏰️ 21:00น. 27/12/2024 \nเวอร์ชั่นไฟล์: 12 \nแก้ไขและเพิ่ม TRUE VIBER \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 13,
+    "message": "⏰️ 09:00น. 31/12/2024 \nเวอร์ชั่นไฟล์: 13 \nแก้ไขและเพิ่ม TRUE VIU \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newsamu-vpn/raw/refs/heads/main/samu.json",
     
     "RewardAmount": 24,
@@ -16,25 +16,33 @@
     
     {
     
-             "name": "SERVER-TH-FREE-01",
+             "name": "SERVER-01",
+    
+             "url": "http://45.136.255.108:82/server/online_app.json"
+    
+          },
+    
+    
+      {
+    
+             "name": "SERVER-02",
     
              "url": "http://45.154.26.234:82/server/online_app.json"
     
           },
+{
     
+             "name": "SERVER-03",
     
-      {
-    
-             "name": "SERVER-TH-FREE-02",
-    
-             "url": "http://103.107.54.182:82/th/online_app_s1.json"
+             "url": "http://116.204.180.87:82/th/online_server_1.json"
     
           },
+
       {
     
-             "name": "SERVER-TH-FREE-03",
+             "name": "SERVER-04",
     
-             "url": "http://103.107.54.182:82/th/online_app_s2.json"
+             "url": "http://116.204.180.87:82/th/online_server_2.json"
     
           }
     
