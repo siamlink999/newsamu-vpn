@@ -1,7 +1,7 @@
 {
   
-    "version": 30,
-    "message": "⏰️ 06:00น. 12/02/2025 \nเวอร์ชั่นไฟล์: 30 \n แก้ไข host true \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n🟨 SIM MY  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 31,
+    "message": "⏰️ 06:00น. 25/02/2025 \nเวอร์ชั่นไฟล์: 31 \n เพิ่ม SIMMY NOPRO V2RAY \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n🟨 SIM MY  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newsamu-vpn/raw/refs/heads/main/samu.json",
     
     "RewardAmount": 24,
@@ -43,15 +43,9 @@
     
              "url": "http://116.204.180.87:82/th/online_server_2.json"
     
-      },
-      
-      {
-    
-             "name": "SERVER-SSH-05",
-    
-             "url": "http://116.204.180.87:82/th/online_server_3.json"
-    
       }
+      
+      
     
     
     
