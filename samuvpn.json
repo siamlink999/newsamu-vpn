@@ -1,7 +1,7 @@
 {
   
-    "version": 32,
-    "message": "⏰️ 23:00น. 26/02/2025 \nเวอร์ชั่นไฟล์: 32 \n แก้ไข ดีแทคเกมส์มิ่ง \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n🟨 SIM MY  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 33,
+    "message": "⏰️ 06:00น. 13/02/2025 \nเวอร์ชั่นไฟล์: 33 \n แก้ไข เพิ่ม true ทวิตเตอร์ \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n🟨 SIM MY  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newsamu-vpn/raw/refs/heads/main/samu.json",
     
     "RewardAmount": 24,
@@ -18,7 +18,7 @@
     
              "name": "SERVER-SSH-01",
     
-             "url": "http://db11.rd291.siam-link.com:82/server/online_app.json"
+             "url": "http://ub161.siam-link.com:82/server/online_app.json"
     
           },
     
@@ -36,14 +36,8 @@
     
              "url": "http://116.204.180.87:82/th/online_server_1.json"
     
-          },
-      {
-    
-             "name": "SERVER-V2RAY-04",
-    
-             "url": "http://116.204.180.87:82/th/online_server_2.json"
-    
-      }
+          }
+      
       
       
     
