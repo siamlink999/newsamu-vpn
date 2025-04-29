@@ -1,7 +1,7 @@
 {
   
-    "version": 37,
-    "message": "⏰️ 07:00น. 25/02/2025 \nเวอร์ชั่นไฟล์: 37 \nแก้ไข SERVER \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n🟨 SIM MY  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
+    "version": 38,
+    "message": "⏰️ 07:00น. 30/04/2025 \nเวอร์ชั่นไฟล์: 38 \nแก้ไข SERVER \n \nรองรับการใช้งาน SSH SSL SlowDNS V2ray \n \n🟥 TRUE  \n🟪 DTAC  \n🟩 AIS Play  \n🟨 SIM MY  \n \nรีวิวให้ 5 ดาวแอพฯของเราบน \nGoogle Play ด้วยน่ะครับ 🙏",
     "fileUrl": "https://github.com/siamlink999/newsamu-vpn/raw/refs/heads/main/samu.json",
     
     "RewardAmount": 24,
@@ -18,7 +18,7 @@
     
              "name": "SERVER-SSH-01",
     
-             "url": "http://ssh.server1.siam-link.com:82/server/online_app.json"
+             "url": "http://103.40.119.65:82/server/online_app.json"
     
           },
     
