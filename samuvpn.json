@@ -16,7 +16,7 @@
     
     {
     
-             "name": "SERVER-01",
+             "name": "SERVER-SSH-01",
     
              "url": "http://141.98.18.151:82/server/online_app.json"
     
